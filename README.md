@@ -24,10 +24,6 @@
 <p align="left">Я студент 3 курса университета СибГУТИ, углубленно изучающий и заинтересован в сфере связи. Занимаюсь программированием SDR, на языках C/C++ и python.</p>
 
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
